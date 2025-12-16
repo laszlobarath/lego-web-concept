@@ -33,7 +33,7 @@ A fully interactive LEGO® website redesign concept built entirely from
 </p>
 
 <p align="center">
-  <img src="https://lego.partisanboost.com/images/34.png" width="800">
+  <img src="https://lego.partisanboost.com/images/34.webp" width="800">
 </p>
 
 ---
