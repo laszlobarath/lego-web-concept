@@ -1,1 +1,1 @@
-All Rigths Reserver
+All Rigths Reserved
