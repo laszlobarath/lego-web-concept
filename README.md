@@ -5,6 +5,13 @@ A fully interactive LEGO® website redesign concept built entirely from
 
 🔗 **Live Demo:** https://lego.partisanboost.com
 
+
+<p align="center">
+  <!-- https://lego.partisanboost.com/assets/shared/meta.png -->
+  <!-- https://lego.partisanboost.com/preview.jpg -->
+  <img src="https://lego.partisanboost.com/assets/shared/meta.png" width="800">
+</p>
+
 ---
 
 ## Project Overview
