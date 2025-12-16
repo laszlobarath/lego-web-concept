@@ -9,7 +9,11 @@ A fully interactive LEGO® website redesign concept built entirely from
 <p align="center">
   <!-- https://lego.partisanboost.com/assets/shared/meta.png -->
   <!-- https://lego.partisanboost.com/preview.jpg -->
-  <img src="https://lego.partisanboost.com/assets/shared/meta.png" width="800">
+  <img src="https://lego.partisanboost.com/images/1.jpg" width="800">
+</p>
+
+<p align="center">
+  <img src="https://lego.partisanboost.com/images/2-2.jpg" width="800">
 </p>
 
 ---
