@@ -1,4 +1,4 @@
-# LEGO® Website Redesign Concept
+<h1>LEGO® Website Redesign Concept</h1>
 
 A fully interactive LEGO® website redesign concept built entirely from
 2D, 3D, and hybrid LEGO elements — powered by a custom real-time JavaScript engine.
@@ -30,6 +30,10 @@ A fully interactive LEGO® website redesign concept built entirely from
 
 <p align="center">
   <img src="https://lego.partisanboost.com/images/27.png" width="800">
+</p>
+
+<p align="center">
+  <img src="https://lego.partisanboost.com/images/34.png" width="800">
 </p>
 
 ---
