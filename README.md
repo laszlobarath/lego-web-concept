@@ -16,6 +16,18 @@ A fully interactive LEGO® website redesign concept built entirely from
   <img src="https://lego.partisanboost.com/images/2-2.png" width="800">
 </p>
 
+<p align="center">
+  <img src="https://lego.partisanboost.com/images/2-2.png" width="800">
+</p>
+
+<p align="center">
+  <img src="https://lego.partisanboost.com/images/9.png" width="800">
+</p>
+
+<p align="center">
+  <img src="https://lego.partisanboost.com/images/14.png" width="800">
+</p>
+
 ---
 
 ## Project Overview
